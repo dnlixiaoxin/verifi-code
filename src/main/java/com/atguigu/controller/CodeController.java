@@ -40,7 +40,7 @@ public class CodeController {
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
-       
+                System.out.println();
 		return result;
 	}
 
